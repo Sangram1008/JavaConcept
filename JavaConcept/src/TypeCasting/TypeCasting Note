@@ -1,0 +1,35 @@
+
+Type Casting :-Convert the data type from one from to other is called Type Casting.
+
+Types of Type Casting :-
+
+1) UpCasting/Widening   2) DownCasting/Narrowing
+
+1) UpCasting :-
+                Converting value from Smaller to Larger
+                Automatic Process No need to do anything
+
+                Example :- int --> long
+                        :- float --> double
+
+                     1) :- int intValue = 100;
+                           long longValue = intValue;
+                           System.out.println(longValue); => 100
+
+                     2) :- float floatValue = 10.5f;
+                           Double doubleValue = floatValue;
+                           System.out.println(doubleValue); => 10.5
+
+2) DownCasting :-
+                Converting value from Larger to Smaller
+                Manual Process
+
+                Example :- long --> int
+                        :- double --> float
+
+
+                // UpCasting
+                Parent p = new Child();
+
+                // DownCasting
+                Child c = new Child();

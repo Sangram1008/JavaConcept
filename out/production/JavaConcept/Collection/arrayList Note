@@ -1,0 +1,22 @@
+
+Collection :- Group of Element Object and data into Single entity.
+              Collection is an interface available in jav.util
+
+1) ArrayList :- Java ArrayList class uses a dynamic array for storing the elements
+                Is a class which is implemented by list Interface
+                it can be resize.
+                Different types of data Allowed.
+                Insertion Order - Preserved(Index) like 0,1,2,3,4,5
+                Duplicate Element Allowed.
+                Multiple Null is Allowed.
+                Single Dimensional.
+                Use Size() to find Length.
+                Use add() to add element.
+                Use iterator to Iterate the array list.
+
+2) HashSet  :-  Java HashSet class is used to create a collection that uses a hash table for storage.
+                Class implemented by set Interface
+                Different types of data Allowed.
+                Insertion Order - Not Preserved.
+                Duplicate Element NotAllowed.
+                Multiple Null is NotAllowed Only Single Null is Allowed.
