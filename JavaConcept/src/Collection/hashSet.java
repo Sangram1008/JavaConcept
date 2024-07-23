@@ -44,8 +44,14 @@ public class hashSet {
         System.out.println("-------------------------");
 
         // Adding the Element is not Possible
+        System.out.println("Adding the Element is not Possible");
+
+        System.out.println("-------------------------");
 
         // Accessing the Specific Value from List is not Possible --- But Can be done myWork Around
+        System.out.println("Accessing the Specific Value from List is not Possible --- But Can be done myWork Around");
+
+        System.out.println("-------------------------");
 
         // Converting HashSet to ArrayList
 
