@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42e657fc-4c71-4a1e-a806-8f2341bd8f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaConcept/src/Collection/hashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaConcept/Collection/hashMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept/src/Collection/Collection Note" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept/src/Collection/Collection Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept/src/Collection/hashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept/src/Collection/hashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcept/Collection/arrayList Note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcept/Collection/Collection Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcept/TypeCasting/TypeCastingObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcept/src/Collection/hashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept/src/Collection/hashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

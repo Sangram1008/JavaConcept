@@ -39,5 +39,10 @@ public class hashMap {
         for (Map.Entry<Integer, String> entry : hashMap.entrySet()) {
             System.out.println(STR."Key: \{entry.getKey()}, Value: \{entry.getValue()}");
         }
+
+        // Iterate over the map using forEach
+        for (int k : hashMap.keySet()) {
+            System.out.println(STR."Value of Element using keySet \{k} \{hashMap.get(k)}");
+        }
     }
 }
