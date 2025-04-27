@@ -1,13 +1,10 @@
 package Collection;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
+
+import static java.lang.StringTemplate.STR;
 
 public class arrayList {
-
-    String Employee;
 
     public static void main(String[] args) {
 
@@ -15,9 +12,7 @@ public class arrayList {
 
         List myList1 = new ArrayList();
 
-        ArrayList<Integer> myIntList = new ArrayList<Integer>();
-
-        ArrayList<arrayList> myObjectList = new ArrayList<arrayList>();
+        ArrayList<Integer> myIntList = new ArrayList<>();
 
         // Adding the Data into ArrayList
         myList.add(100);
@@ -78,8 +73,8 @@ public class arrayList {
 
         // Printing the ArrayList with For Loop
 
-        for (int i = 0; i < myList.size(); i++) {
-            System.out.println(STR."Printing the Data with ForLoop\{STR." \{myList.get(i)}"}");
+        for (Object object : myList) {
+            System.out.println(STR."Printing the Data with ForLoop\{STR." \{object}"}");
         }
 
         System.out.println("-------------------------");
@@ -139,6 +134,5 @@ public class arrayList {
         //Clearing the all element from list true
 
         System.out.println("-------------------------");
-
     }
 }
